@@ -7,14 +7,18 @@ console.log("hello");
 
 //para declarar variaveis no js podemos usar  "var", "let"ou "const"
 // sempra que usar "const" pra declarar uma variavel , o valor dela não pode ser alterado
-const pi = 3.14;
-alert(pi);
+//const pi = 3.14;
+//alert(pi);
 
 // var e let declaram variavel e ela poderá ser alterada, se comparar ao conts são iguai 
 // mas o let e var são diferentes , o var é uma variavel de escopo  global pode ser usado no codigo interio , o let é de escopo local , só pode usar em um bloco
 // let é uma variavel de escopo local
 // var é uma variavel de escopo global
 
-var nome = "Gabi";
-nome = "maria" // ira aparecer maria pois eu ja declarei o nome na variavel mas eu atualizei com o nome maria 
+//var nome = "Gabi";
+//ome = "maria" // ira aparecer maria pois eu ja declarei o nome na variavel mas eu atualizei com o nome maria 
+//alert (nome);
+
+var nome = "puro medo de SI depois de hoje";
 alert (nome);
+
