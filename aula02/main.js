@@ -27,6 +27,10 @@ alert(result);
  */
 
 let nome = prompt("qual seu nome?");
+let idade = Number(prompt("sua idade aralho"));
+let ano = 2023 - idade;
+alert(ano);
+
 
 
 
