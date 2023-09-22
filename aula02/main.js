@@ -31,6 +31,9 @@ let idade = Number(prompt("sua idade aralho"));
 let ano = 2023 - idade;
 alert(ano);
 
+//interpolação chama uma variavel dentro de uma mensagem ( mostro o texto)
+// concatenar é unir elementos 
+
 
 
 

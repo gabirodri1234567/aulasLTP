@@ -8,3 +8,4 @@ if(cor == "vermelho"){
     alert("ta errado cara")
 }
 
+//
